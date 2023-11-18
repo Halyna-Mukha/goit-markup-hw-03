@@ -98,15 +98,15 @@ body {
 .link:focus {
   color: var(--OCEAN, #404bbf);
 }
-.menu-contacts-link {
-    display: flex;
-  }
 .our-contacts {
   font-style: normal;
 }
 .menu-contacts {
   display: flex;
   gap: 40px;
+}
+.menu-contacts-link {
+  display: flex;
 }
 .contacts {
   line-height: 1.5;
