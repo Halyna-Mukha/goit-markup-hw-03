@@ -100,10 +100,13 @@ body {
 }
 .our-contacts {
   font-style: normal;
+  
 }
 .menu-contacts {
   display: flex;
   gap: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 .menu-contacts-link {
   display: flex;
